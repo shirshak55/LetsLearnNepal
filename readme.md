@@ -20,4 +20,4 @@ After sending please ping me once.
     If you discover any security related issue, please email bloggervista@gmail.com .
 
 ## Donation
-    Considering the hours spend on developing this boilerplate and you might have used it on production I accept the donation. Doner name will be written on this repo as a mark of apperciation. I do accept cards payment, paypal but I am not writing it here. If you like to donate kindly ping me at `bloggervista@gmail.com` . If you are bitcoin user you can send me donations at 
+    Considering the hours spend on developing this boilerplate and you might have used it on production I accept the donation. Doner name will be written on this repo as a mark of apperciation. I do accept cards payment, paypal but I am not writing it here. If you like to donate kindly ping me at `bloggervista@gmail.com` . If you are bitcoin user you can send me donations at blockchain `1NJb7cqYqP3nbR5WDjdaVvaduXfg8KEsHG` or `ether` at `0xA583445Acf22604219037D31f2D163B877DAad08`
