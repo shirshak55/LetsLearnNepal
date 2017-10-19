@@ -1,0 +1,1 @@
+<div class="informations"><?php if(function_exists('show_likes_count')){echo show_likes_count(get_the_ID())." Likes |";} ?> <time datetime="<?php printf(__('%1$s','atahualpa'), get_the_date(__('Y-m-d:G:i','atahualpa'))) ?>"> <?php echo get_the_date(); ?></time><?php edit_post_link(' | Edit'); ?>  | <?php comments_number('0 comment', 'One comments', '% comments' );?></div>

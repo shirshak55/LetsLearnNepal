@@ -1,0 +1,30 @@
+.page-wrap{
+	width:100%;
+}
+.home_welcome_wrap{
+	width:70%;
+	margin:0 auto;
+	display:flex;
+}
+.home_welcome_wrap div{
+	vertical-align: top;
+}
+.welcome_text{
+	font-size:2em;
+	color:white;
+	display:block;
+}
+.welcome_image{
+	display:inline-block;
+}
+.home_learning_steps_wrap{
+	background:yellow;
+	width:100%;
+	padding:10px 60px;
+}
+.home_learning_beautify{
+	margin:0 auto;
+}
+.home_learning_beautify > div {
+	display:inline-block;
+}
